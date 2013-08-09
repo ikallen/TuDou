@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://vip.svnspot.com/kallen.wzcard/trunk/WZCard/kframe/asihttprequest
+https://vip.svnspot.com/kallen.wzcard
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8608e2fd-459c-56fb-61c5-ffee7bf23f42
+
+ASIHTTPRequest.m
+file
+
+
+
+add
+
+ASICacheDelegate.h
+file
+
+
+
+add
+
+ASINetworkQueue.h
+file
+
+
+
+add
+
+ASIDataDecompressor.h
+file
+
+
+
+add
+
+ASIAuthenticationDialog.h
+file
+
+
+
+add
+
+ASIProgressDelegate.h
+file
+
+
+
+add
+
+ASIDownloadCache.m
+file
+
+
+
+add
+
+ASINetworkQueue.m
+file
+
+
+
+add
+
+ASIDataDecompressor.m
+file
+
+
+
+add
+
+ASIAuthenticationDialog.m
+file
+
+
+
+add
+
+ASIFormDataRequest.h
+file
+
+
+
+add
+
+ASIFormDataRequest.m
+file
+
+
+
+add
+
+ASIInputStream.h
+file
+
+
+
+add
+
+Reachability
+dir
+
+
+
+add
+
+ASIHTTPRequestConfig.h
+file
+
+
+
+add
+
+ASIInputStream.m
+file
+
+
+
+add
+
+ASIHTTPRequestDelegate.h
+file
+
+
+
+add
+
+ASIDataCompressor.h
+file
+
+
+
+add
+
+ASIHTTPRequest.h
+file
+
+
+
+add
+
+ASIDownloadCache.h
+file
+
+
+
+add
+
+ASIDataCompressor.m
+file
+
+
+
+add
+
